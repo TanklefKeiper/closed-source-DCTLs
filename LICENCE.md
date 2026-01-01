@@ -1,5 +1,3 @@
-DCTLE Plugin License
-
 Copyright © 2026 Tanklef Keiper
 All rights reserved.
 
