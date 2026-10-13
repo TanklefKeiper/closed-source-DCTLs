@@ -1,8 +1,7 @@
 NO EXPIRY DATE! Have Fun!
 
 !!
-Consider donating at @tanklef on PayPal.
-paypal.me/tanklef
+[Consider donating on PayPal.]{www.paypal.me/tanklef}
 !!
 
 
