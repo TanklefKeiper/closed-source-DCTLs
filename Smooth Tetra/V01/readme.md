@@ -2,6 +2,7 @@ NO EXPIRY DATE! Have Fun!
 
 !!
 Consider donating at @tanklef on PayPal.
+paypal.me/tanklef
 !!
 
 
